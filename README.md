@@ -9,6 +9,9 @@ I used it to recolour dice images for a dice rolling app, but it should it be fl
 recolour other one-colour png images/icons by only changing these variables:
 
 colours = list of colours for the picture to be recoloured into
+
 transparent_img_names = names of source images with transparent background (except the .png)
+
 non_trans_img_names = names of source images with non-transparent background (except the .png)
+
 source_folder = the folder where all the source images are stored
